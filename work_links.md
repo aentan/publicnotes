@@ -18,7 +18,7 @@
 - [Parallax Scroll](http://parallax-scroll.aenism.com) – My jQuery plugin for parallax scroll effect using `background-position`
 - [Bootstrap](https://github.com/twbs/bootstrap/pulls?q=is%3Apr+is%3Aclosed+author%3Aaentan)
 - [Scut](https://github.com/davidtheclark/scut/pulls?q=is%3Apr+author%3Aaentan+is%3Aclosed) – SASS utility
-- [CMBT](https://github.com/aentan/CBMT) – Cognitive Bias Modification Therapy/Training, built this to brainwash myself
+- [CBMT](https://github.com/aentan/CBMT) – Cognitive Bias Modification Therapy/Training, built this to brainwash myself
 
 ## Email Templates
 
