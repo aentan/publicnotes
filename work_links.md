@@ -56,4 +56,3 @@
 - [Lemons](http://wearelemons.com) – My brand/identity service
 - Personal Cards [1](http://designspiration.net/image/24399602045805/)/[2](http://aen.is/ZMNM) – Plastic identity
 - Leica Typeface [1](http://designspiration.net/image/58719373210/)/[2](http://designspiration.net/image/58719373207/) – Recreate the LG1050 typeface of Leica cameras
-- 
