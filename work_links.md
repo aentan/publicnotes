@@ -47,7 +47,6 @@
 - Likables [1](https://dribbble.com/shots/204016-Likables-for-iPhone?list=users&offset=26)/[2](https://dribbble.com/shots/203595-Likables-for-iPhone?list=users&offset=27) – Share your favorite things with people
 - [Foound](https://dribbble.com/shots/148041-Foound-App-Icon?list=users&offset=42) – Glassy app icon
 - [Foound](https://dribbble.com/shots/148382-Foound-Icons?list=users&offset=41) – UI Icons in color
-- 
 
 ## Personal
 
