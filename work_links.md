@@ -8,6 +8,7 @@
 - [StrictlyDemo](http://strictlydemo.com) – Makes demo videos (branding and responsive front-end)
 - [GoodHands Co.](http://goodhands.co) – On-demand massage on mobile (co-founder / branding / design)
 - [Multiply](https://www.multiply.is) – Web development courses (branding and responsive front-end)
+- [Mocku.ps](http://thenextweb.com/dd/2012/01/27/take-the-stress-out-of-previewing-your-web-designs-to-clients-with-mocku-ps/) – Precise mockup presentation tool (branding, design and development)
 - [Map of San Francisco](http://theopencompany.net/products/san-francisco-map) – Kickstarter-backed collaboration with The Open Company (typography and design)
 
 ## Redesigns
